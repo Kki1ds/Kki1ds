@@ -16,6 +16,10 @@ Status   : Building cool stuff...
 <p align="left">
   <img src="https://skillicons.dev/icons?i=py,git,vscode,apple,claude,zsh&theme=dark" alt="Tech Stack" />
 </p>
+<p align="left">
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white" alt="Claude" />
+  <img src="https://img.shields.io/badge/Zsh-1F1F1F?style=for-the-badge&logo=zsh&logoColor=white" alt="Zsh" />
+</p>
 
 <!--
 ### GitHub Stats
