@@ -1,5 +1,12 @@
-## Hi there 👋
-
+```
+kki1ds@github:~$ fastfetch --profile
+--------------------------------------
+OS       : macOS / Windows
+Theme    : One Dark Pro
+Font     : Maple Mono
+Focus    : Python, Desktop Pets, Automation
+Status   : Building cool stuff...
+```
 <!--
 **Kki1ds/Kki1ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
