@@ -9,12 +9,26 @@ OS       : macOS / Windows
 Theme    : One Dark Pro
 Font     : Maple Mono
 Focus    : Python, Desktop Pets, Automation
-Status   : Building cool stuff...s   : Building cool stuff...
+Status   : Building cool stuff...
 ```
-Tech Stack
-GitHub Stats
-Contribution Snake
 
+### Tech Stack
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,git,github,vscode,apple,windows,linux,bash&theme=dark" alt="Tech Stack" />
+</p>
+
+### GitHub Stats
+<p align="left">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Kki1ds&show_icons=true&theme=onedark&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kki1ds&layout=compact&theme=onedark&hide_border=true&bg_color=0d1117" alt="Top Langs" />
+</p>
+
+### Contribution Snake
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Kki1ds/Kki1ds/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Kki1ds/Kki1ds/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Kki1ds/Kki1ds/output/github-contribution-grid-snake-dark.svg" />
+</picture>
 <!--
 **Kki1ds/Kki1ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
