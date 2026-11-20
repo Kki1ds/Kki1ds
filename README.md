@@ -5,7 +5,7 @@
 ```text
 kki1ds@github:~$ fastfetch --profile
 --------------------------------------
-OS       : macOS Golden Gate
+OS       : macOS Golden Gate 27
 Font     : Maple Mono
 Focus    : Vibe Coding, Desktop Pets, Automation
 Status   : Building cool stuff...
